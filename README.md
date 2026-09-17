@@ -13,7 +13,7 @@ Links mentioned in presentation
 
 
  ## Prompts for navigating ATS (Applicant Tracking System Software)
- [prompts](ATS)
+ [prompts](ATS.md)
 
 
 ## Career fair - Compaines to look into (IT/SWE) 
