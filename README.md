@@ -14,3 +14,22 @@ Links mentioned in presentation
 
  ## Prompts for navigating ATS (Applicant Tracking System Software)
  [prompts](ATS)
+
+
+## Career fair - Compaines to look into (IT/SWE) 
+
+Link to career fair info - https://depaul.joinhandshake.com/stu/career_fairs/65009?from_cxp=true  
+### More details listed on handshake, but you can search their company website as well.
+
+LifeFitness - https://www.lifefitness.com/en-us/careers  
+
+Illinois Department of Human Services - https://www.dhs.state.il.us/page.aspx?item=80639 (open to freshmen) 
+
+Hydraforce - http://www.hydraforce.com
+
+CNO Financial Group, Inc. - http://www.cnoinc.com
+
+Apex Fintech Solutions - https://www.apexfintechsolutions.com/
+
+
+
