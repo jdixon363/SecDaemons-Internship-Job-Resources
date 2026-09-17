@@ -10,3 +10,7 @@ Links mentioned in presentation
  MIT tech resume template https://capd.mit.edu/resources/sample-resumes/ (undergraduate -> sample 2) 
 
  Detailed resume walk through https://capd.mit.edu/resources/preparing-your-first-college-resume/  
+
+
+ ## Prompts for navigating ATS (Applicant Tracking System Software)
+ 
