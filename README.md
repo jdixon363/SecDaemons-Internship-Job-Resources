@@ -13,4 +13,4 @@ Links mentioned in presentation
 
 
  ## Prompts for navigating ATS (Applicant Tracking System Software)
- 
+ [prompts](ATS)
