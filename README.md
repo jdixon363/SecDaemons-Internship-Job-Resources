@@ -13,7 +13,9 @@ Links mentioned in presentation
 
 
  ## Prompts for navigating ATS (Applicant Tracking System Software)
- [prompts](ATS.md)
+ [Prompts for editing grammar/cohesiveness on your reumse](ATS.md)
+ 
+ [Prompt specifically for increasing ATS acceptance rate] 
 
 
 ## Career fair - Compaines to look into (IT/SWE) 
